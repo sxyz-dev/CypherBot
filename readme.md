@@ -104,7 +104,7 @@ Menemukan bug? Segera hubungi developer:
 
 <br>
 
-[![Stars](https://img.shields.io/github/stars/yourusername/CypherBot?style=social)](https://github.com/yourusername/CypherBot)
-[![Forks](https://img.shields.io/github/forks/yourusername/CypherBot?style=social)](https://github.com/yourusername/CypherBot)
+[![Stars](https://img.shields.io/github/stars/sxyz-dev/CypherBot?style=social)](https://github.com/sxyz-dev/CypherBot)
+[![Forks](https://img.shields.io/github/forks/sxyz-dev/CypherBot?style=social)](https://github.com/sxyz-dev/CypherBot)
 
 </div>

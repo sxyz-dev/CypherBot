@@ -61,7 +61,7 @@ CypherBot adalah project bot WhatsApp yang dibangun menggunakan library [Axell B
 
 ```haskell
 Status     : Beta Testing
-Versi      : 1.0.0
+Versi      : 0.0.1
 Total Fitur: 56+
 Akses      : Tertutup (Sampai v2.0.0)
 ```
@@ -81,7 +81,8 @@ Akses      : Tertutup (Sampai v2.0.0)
 
 <div align="center">
 
-`Node.js` • `Baileys` • `JavaScript` • `Express`
+• `Baileys`
+• `JavaScript`
 
 </div>
 

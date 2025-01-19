@@ -21,7 +21,7 @@ module.exports = {
            caption: "Done.",
            footer: "© CypherBot 2025 - 2026",
            buttons: [{
-              buttonId: ".gimage",
+              buttonId: `.gimage ${text}`,
               buttonText: {
                 displayText: "⬅ Lanjut"
               }

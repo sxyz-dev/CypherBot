@@ -107,4 +107,9 @@ Menemukan bug? Segera hubungi developer:
 [![Stars](https://img.shields.io/github/stars/sxyz-dev/CypherBot?style=social)](https://github.com/sxyz-dev/CypherBot)
 [![Forks](https://img.shields.io/github/forks/sxyz-dev/CypherBot?style=social)](https://github.com/sxyz-dev/CypherBot)
 
+### 🗞 Support Community
+
+[![Newsletter](https://img.shields.io/badge/Newsletter-https://whatsapp.com/channel/0029Vb3lj2l8V0tlKG7av62W-blue?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3lj2l8V0tlKG7av62W)
+
+[![Groups](https://img.shields.io/badge/GroupSupport-https://chat.whatsapp.com/LrXs5UBnBVdAHhSXDcDwe0-blue?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LrXs5UBnBVdAHhSXDcDwe0)
 </div>

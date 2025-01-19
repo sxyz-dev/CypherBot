@@ -113,5 +113,5 @@ Menemukan bug? Segera hubungi developer:
 [![Newsletter](https://img.shields.io/badge/Newsletter-Support-blue?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb3lj2l8V0tlKG7av62W)
 
 [![Groups](https://img.shields.io/badge/Group-Support-blue?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/LrXs5UBnBVdAHhSXDcDwe0)
-</div>
 ---
+</div>

@@ -21,48 +21,47 @@ CypherBot adalah project bot WhatsApp yang dibangun menggunakan library [Axell B
 
 <div align="center">
 
-### 🛠️ Tools & Utilitas
+### 🛠 Pengelolaan Group
 
-<img src="https://img.shields.io/badge/NEW-tools--polling-blue?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/NEW-tools--tourl-blue?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/NEW-tools--translate-blue?style=flat-square&logo=javascript"/>
-
+<img src="https://img.shields.io/badge/NEW-group--kick-blue?style=flat-square&logo=javascript"/>
 ```js
-📊 tools-polling    // Buat polling interaktif di grup
-🔗 tools-tourl      // Konversi media ke URL
-🌐 tools-translate  // Terjemahan multi bahasa
+📊 group-kick    // Kick Yang Jomok😂
 ```
 
 ### 👑 Fitur Owner
 
-<img src="https://img.shields.io/badge/NEW-own--eval-red?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/NEW-own--exec-red?style=flat-square&logo=javascript"/>
 
 ```js
-⚙️ own-eval        // Evaluasi kode JavaScript
+⚙️ own-exec        // Evaluasi kode Console. 
 ```
 
-### 📥 Downloader
+### 📥 Sticker
 
-<img src="https://img.shields.io/badge/NEW-dl--play-green?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/NEW-dl--ytmp3-green?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/NEW-dl--ytmp4-green?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/NEW-dl--tiktok-green?style=flat-square&logo=javascript"/>
-
+<img src="https://img.shields.io/badge/NEW-sticker-smeme-green?style=flat-square&logo=javascript"/>
 ```js
-🎵 dl-play         // Putar audio/video dari YouTube
-🎧 dl-ytmp3        // Download audio YouTube
-🎬 dl-ytmp4        // Download video YouTube
-📱 dl-tiktok       // Download video TikTok
+🎵 sticker-smeme         //Ubah Sticker Biasa Jadi Ada Text.
 ```
+
+### 🔎 Search
+
+<img src="https://img.shields.io/badge/NEW-search--gimage-green?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/NEW-search--appleProducts-green?style=flat-square&logo=javascript"/>
+```js
+🔎 search-gimage         // Cari Foto Di Google Lebih mudah! 
+🔎 search-appleProducts    // Cari Produk Yang Ada Di Apple.
+```
+
+<img src="https://img.shields.io/badge/NEW-Dan-Lain-Lain-Cek-Sendiri.-green?style=flat-square&logo=javascript"/>
 
 </div>
 
 ## 🔒 Status Project
 
 ```haskell
-Status     : Beta Testing
-Versi      : 0.0.1
-Total Fitur: 56+
+Status     : Active
+Versi      : 0.1.0
+Total Fitur: 70+
 Akses      : Tertutup (Sampai v2.0.0)
 ```
 

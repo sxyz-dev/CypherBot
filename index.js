@@ -86,15 +86,19 @@
     }),
   });
 
-  console.log(chalk.blue.bold("- Hi Welcome to NekoBot !"));
-  console.log(chalk.white.bold("| Terimakasih telah menggunakan Script ini !"));
-  console.log(
-    chalk.white.bold(
-      "| Github saya [Follow] : " +
-        chalk.cyan.bold("https://github.com/AxellNetwork"),
-    ),
-  );
-  console.log(chalk.white.bold("––––––––––––––––––––"));
+console.clear();
+console.log(chalk.blue.bold("┌───────────────────────────────────────────────┐"));
+console.log(chalk.blue.bold("│               Welcome to CypherBot!           │"));
+console.log(chalk.blue.bold("├───────────────────────────────────────────────┤"));
+console.log(chalk.white.bold("│ Terima kasih telah menggunakan CypherBot!     │"));
+console.log(chalk.white.bold("│ Jangan lupa support dan tetap semangat!       │"));
+console.log(chalk.blue.bold("├───────────────────────────────────────────────┤"));
+console.log(
+  chalk.white.bold("│ GitHub [Follow]: ") +
+    chalk.cyan.bold("https://github.com/sxyz-dev/CypherBot") +
+    chalk.white.bold(" │")
+);
+console.log(chalk.blue.bold("└───────────────────────────────────────────────┘"));
 
   async function system() {
     const { state, saveCreds } = await useMultiFileAuthState(config.sessions);

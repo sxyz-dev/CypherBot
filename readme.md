@@ -6,7 +6,7 @@
 
 <img src="./.image/banner.webp" alt="CypherBot Banner">
 
-[![Version Beta](https://img.shields.io/badge/BETA-0.0.1-blue.svg?style=for-the-badge&logo=github)](https://github.com/sxyz-dev/CypherBot)
+[![Version Beta](https://img.shields.io/badge/ACTIVE-0.1.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/sxyz-dev/CypherBot)
 [![Baileys](https://img.shields.io/badge/Baileys-Latest-green.svg?style=for-the-badge&logo=whatsapp)](https://github.com/AxellNetwork/Baileys)
 [![Fitur](https://img.shields.io/badge/Total_Fitur-56+-orange.svg?style=for-the-badge&logo=firebase)](https://github.com/yourusername/CypherBot)
 [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg?style=for-the-badge&logo=github)](https://github.com/yourusername/CypherBot)

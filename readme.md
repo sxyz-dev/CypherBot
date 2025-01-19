@@ -40,6 +40,7 @@ CypherBot adalah project bot WhatsApp yang dibangun menggunakan library [Axell B
 ### 📥 Sticker
 
 <img src="https://img.shields.io/badge/NEW-sticker-smeme-green?style=flat-square&logo=javascript"/>
+
 ```js
 🎵 sticker-smeme         //Ubah Sticker Biasa Jadi Ada Text.
 ```
@@ -48,6 +49,7 @@ CypherBot adalah project bot WhatsApp yang dibangun menggunakan library [Axell B
 
 <img src="https://img.shields.io/badge/NEW-search--gimage-green?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/NEW-search--appleProducts-green?style=flat-square&logo=javascript"/>
+
 ```js
 🔎 search-gimage         // Cari Foto Di Google Lebih mudah! 
 🔎 search-appleProducts    // Cari Produk Yang Ada Di Apple.

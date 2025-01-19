@@ -24,6 +24,7 @@ CypherBot adalah project bot WhatsApp yang dibangun menggunakan library [Axell B
 ### 🛠 Pengelolaan Group
 
 <img src="https://img.shields.io/badge/NEW-group--kick-blue?style=flat-square&logo=javascript"/>
+
 ```js
 📊 group-kick    // Kick Yang Jomok😂
 ```
